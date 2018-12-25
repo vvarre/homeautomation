@@ -6,7 +6,7 @@ import pychromecast
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 from gtts import gTTS
 
-HOST_NAME = "192.168.1.141"
+HOST_NAME = "192.168.1.167"
 HOST_PORT = 9090
 
 MP3_CACHE_DIR = "mp3_cache"
